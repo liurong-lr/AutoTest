@@ -24,4 +24,14 @@ public class BasicAnnotation {
         System.out.println("aftermethod这是在测试方法之后运行的");
     }
 
+    @BeforeClass
+    public void beforeClass(){
+        System.out.println("beforclass这是在类运行之前运行的方法");
+    }
+    @AfterClass
+    public void afterClass(){
+        System.out.println("afterClass这是在类运行之后运行的方法");
+    }
+
+
 }
