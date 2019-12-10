@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name ="suitename">
+
+    <test name ="runall">
+      <classes>
+
+          <class name="com.couser.testng.groups.GroupsOnClass1"/>
+          <class name="com.couser.testng.groups.GroupsOnClass2"/>
+          <class name="com.couser.testng.groups.GroupsOnClass3"/>
+
+
+      </classes>
+
+    </test>
+    <test name="onlysunstu">
+
+        <groups>
+
+            <run>
+                <include name="stu"/>
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name="com.couser.testng.groups.GroupsOnClass1"/>
+            <class name="com.couser.testng.groups.GroupsOnClass2"/>
+            <class name="com.couser.testng.groups.GroupsOnClass3"/>
+
+
+        </classes>
+
+    </test>
+</suite>
