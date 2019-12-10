@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ff8d13-de52-494d-b600-5285e77d93ff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/LoginTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/PayTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/SuiteConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/IgnoreTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
@@ -33,16 +30,6 @@
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7728">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -123,12 +110,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="suite.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="suite.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IgnoreTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/IgnoreTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/LoginTest.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/IgnoreTest.java" />
       </list>
     </option>
   </component>
@@ -321,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml">
+  <component name="RunManager" selected="TestNG.IgnoreTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -466,34 +467,34 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TimeOutTest.testfail" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IgnoreTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="PATTERN" value="com.couser.testng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Chapter5" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.course.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.TimeOutTest" />
-      <option name="METHOD_NAME" value="testfail" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.couser.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.couser.testng.IgnoreTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <envs />
       <properties />
       <listeners />
@@ -559,19 +560,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.TimeOutTest.testfail" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase1" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase2" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase1" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase2" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase2" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase1" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TimeOutTest.testfail" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase2" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.BasicAnnotation.testcase1" />
       </list>
     </recent_temporary>
   </component>
@@ -592,20 +593,20 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicAnnotation - 2019.12.10 at 17h 54m 44s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation - 2019.12.10 at 17h 57m 56s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation - 2019.12.10 at 18h 04m 51s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BasicAnnotation - 2019.12.10 at 18h 20m 59s.xml">
       <configuration name="BasicAnnotation" configurationId="TestNG" />
     </history-entry>
     <history-entry file="BasicAnnotation_testcase2 - 2019.12.10 at 18h 13m 03s.xml">
       <configuration name="BasicAnnotation.testcase2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2019.12.10 at 21h 41m 12s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2019.12.10 at 21h 41m 34s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2019.12.10 at 21h 43m 13s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter5_src_main_resources_suite_xml - 2019.12.10 at 21h 23m 04s.xml">
       <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
@@ -635,7 +636,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -754,6 +755,17 @@
         <state relative-caret-position="30">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
