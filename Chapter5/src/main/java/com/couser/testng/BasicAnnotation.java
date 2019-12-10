@@ -2,6 +2,8 @@ package com.couser.testng;
 
 import org.testng.annotations.*;
 
+import javax.xml.ws.BindingType;
+
 public class BasicAnnotation {
 
     //最基本的注解，用来把方法标记为
@@ -31,6 +33,17 @@ public class BasicAnnotation {
     @AfterClass
     public void afterClass(){
         System.out.println("afterClass这是在类运行之后运行的方法");
+    }
+
+    @BeforeSuite
+    public void beforeSuite(){
+        System.out.println("beforesuite测试套件");
+
+    }
+    @AfterSuite
+    public void afterSuite(){
+
+        System.out.println("aftersuite测试套件");
     }
 
 
