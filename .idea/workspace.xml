@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ff8d13-de52-494d-b600-5285e77d93ff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
@@ -35,16 +32,6 @@
                 <element signature="e#702#703#0" expanded="true" />
                 <element signature="e#763#764#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/suite/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -147,12 +134,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="groupsOnClass.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="groupsOnClass.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpectedException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding>
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,6 +194,7 @@
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass3.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass2.java" />
+        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java" />
       </list>
     </option>
   </component>
@@ -361,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml">
+  <component name="RunManager" selected="TestNG.ExpectedException.runTimeExceptionSuccess">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -410,7 +411,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="BasicAnnotation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExpectedException.runTimeExceptionSuccess" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.couser.testng.*" />
@@ -422,10 +423,42 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.couser.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.couser.testng.BasicAnnotation" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="com.couser.testng.ExpectedException" />
+      <option name="METHOD_NAME" value="runTimeExceptionSuccess" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ExpectedException.runTimeExecptionFailed" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.couser.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Chapter5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.couser.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.couser.testng.ExpectedException" />
+      <option name="METHOD_NAME" value="runTimeExecptionFailed" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -533,33 +566,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Chapter5" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -594,19 +600,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.GroupsOnMethod" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.GroupsOnMethod" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.ExpectedException.runTimeExecptionFailed" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.ExpectedException.runTimeExceptionSuccess" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.GroupsOnMethod" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.BasicAnnotation" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.ExpectedException.runTimeExceptionSuccess" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.ExpectedException.runTimeExecptionFailed" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GroupsOnMethod" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.IgnoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -627,17 +633,17 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="ExpectedException_runTimeExceptionSuccess - 2019.12.10 at 22h 21m 15s.xml">
+      <configuration name="ExpectedException.runTimeExceptionSuccess" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpectedException_runTimeExecptionFailed - 2019.12.10 at 22h 17m 00s.xml">
+      <configuration name="ExpectedException.runTimeExecptionFailed" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="GroupsOnMethod - 2019.12.10 at 21h 55m 45s.xml">
       <configuration name="GroupsOnMethod" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GroupsOnMethod - 2019.12.10 at 21h 56m 37s.xml">
       <configuration name="GroupsOnMethod" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="IgnoreTest - 2019.12.10 at 21h 41m 12s.xml">
-      <configuration name="IgnoreTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="IgnoreTest - 2019.12.10 at 21h 41m 34s.xml">
-      <configuration name="IgnoreTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="IgnoreTest - 2019.12.10 at 21h 43m 13s.xml">
       <configuration name="IgnoreTest" configurationId="TestNG" />
@@ -654,12 +660,13 @@
     <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter5_src_main_resources_groupsOnClass_xml - 2019.12.10 at 22h 09m 43s.xml">
       <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter5_src_main_resources_suite_xml - 2019.12.10 at 21h 35m 17s.xml">
-      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter5_src_main_resources_groupsOnClass_xml - 2019.12.10 at 22h 10m 14s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -669,12 +676,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -693,7 +700,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java</url>
+          <line>14</line>
+          <properties class="com.couser.testng.ExpectedException" method="runTimeExecptionFailed">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -860,6 +878,17 @@
         <state relative-caret-position="300">
           <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
