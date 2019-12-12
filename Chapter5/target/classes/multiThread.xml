@@ -8,7 +8,7 @@ xml文件配置这种方式不能指定线程池，只有方法上才可以指�
 tests级别：不同Test tag下的用例可以在不同的线程下执行.相同Test tag下的用例只能在同一个的线程下执行
 
 -->
-<suite name ="thread" parallel="classes" thread-count="2">
+<suite name ="thread" parallel="tests" thread-count="2">
     <test name="demo1">
 
         <classes>
