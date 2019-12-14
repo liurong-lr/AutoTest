@@ -44,8 +44,8 @@
   },
   "response":{
     "cookies":{
-      "login":"true",
-      "status":"1000"
+      "login":"true"
+
 
     },
     "text":"获得cookise成功"
