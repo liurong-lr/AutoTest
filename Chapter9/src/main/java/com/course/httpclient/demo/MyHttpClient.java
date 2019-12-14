@@ -20,7 +20,7 @@ public class MyHttpClient {
         HttpClient client=new DefaultHttpClient();
 
         HttpResponse response= client.execute(get);
-      result=  EntityUtils.toString(response.getEntity(),"utf-8") ;
+        result= EntityUtils.toString(response.getEntity(),"utf-8") ;
 
         System.out.println(result);
 

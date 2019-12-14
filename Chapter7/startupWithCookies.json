@@ -35,7 +35,25 @@
       }
     }
 
-  }
+  },{
+
+  "description":"这是一个会返回cookies信息得get请求",
+  "request":{
+    "uri":"/getCookies",
+    "method":"get"
+  },
+  "response":{
+    "cookies":{
+      "login":"true",
+      "status":"1000"
+
+    },
+    "text":"获得cookise成功"
+}
+
+}
+
+
 
 
 ]
