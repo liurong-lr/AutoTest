@@ -1,6 +1,8 @@
 package hello.com.couser.server;
 
 
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
 import org.apache.catalina.servlet4preview.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,9 +13,11 @@ import java.util.Map;
 import java.util.Objects;
 
 @RestController
+@Api(value = "/",description = "这是我得get方法")
 public class MyGetMethod {
 
     @RequestMapping(value = "/getCookies", method = RequestMethod.GET)
+    @ApiOperation(value = "获得cookies信息",httpMethod = "GET")
     public String getcookies(HttpServletResponse response) {
 
         //HttpServerletRequest  装请求信息得类
@@ -31,6 +35,8 @@ public class MyGetMethod {
      * 这是一个需要携带cookies信息才能访问得get请求
      */
     @RequestMapping(value = "/get/with/cookies", method = RequestMethod.GET)
+    @ApiOperation(value = "这是一个需要携带cookies信息才能访问得get请求",httpMethod = "GET")
+
     public String getWithCookies(HttpServletRequest request) {
 
 
@@ -59,7 +65,9 @@ public class MyGetMethod {
      */
 
      @RequestMapping(value = "/get/with/param",method = RequestMethod.GET)
-    public Map<String,Integer> getList(@RequestParam Integer start, @RequestParam Integer end ){
+     @ApiOperation(value = "需要写的参数得get请求",httpMethod = "GET")
+
+     public Map<String,Integer> getList(@RequestParam Integer start, @RequestParam Integer end ){
 
         Map<String,Integer> myList=new HashMap<>();
         myList.put("鞋",400);
@@ -76,6 +84,8 @@ public class MyGetMethod {
      */
 
     @RequestMapping(value = "/get/with/param/{start}/{end}")
+    @ApiOperation(value = "需要写的参数得get请求得二种方法",httpMethod = "GET")
+
     public  Map myGetList(@PathVariable Integer start, @PathVariable Integer end){
         Map<String,Integer> myList=new HashMap<>();
         myList.put("鞋",400);
@@ -86,4 +96,5 @@ public class MyGetMethod {
 
 
     }
+
 }
