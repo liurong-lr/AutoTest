@@ -1,13 +1,14 @@
 package hello.com.couser.server;
 
+import hello.bean.User;
 import io.swagger.annotations.Api;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import io.swagger.annotations.ApiOperation;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.util.concurrent.Callable;
 
 /**
  * @Author liurong
@@ -35,5 +36,40 @@ public class MyPostMethod {
 
     }
 
+    //验证cookies 和返回用户列表
+    @RequestMapping(value = "/getUesrlist",method = RequestMethod.POST)
+    @ApiOperation(value = "获取用户列表",httpMethod = "POST")
+    public String getUserlist(HttpServletRequest request,
+                            @RequestBody User user){
+        User user1;
 
-}
+        //获取cookies
+        Cookie[] cookie=request.getCookies();
+        //验证cookise是否合法   
+
+
+        for (Cookie c:cookie) {
+
+            if(c.getName().equals("login")&& c.getValue().equals("true")
+                    && user.getUserName().equals("zhangshan")&& user.getPassWord().equals("123456")){
+                   user1=new User();
+                user1.setName("lisi");
+                user1.setAge("18");
+                user1.setSex("man");
+
+                return  user1.toString();
+
+
+            
+        }
+            
+        }
+        return  "参数不合法";
+        }
+
+
+
+    }
+
+
+
