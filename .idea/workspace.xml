@@ -2,56 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ff8d13-de52-494d-b600-5285e77d93ff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_38.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/Chapter11.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/couser/controller/demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_37.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/Chapter12.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtendTestNGReporterListener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/Chapter13.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/logs/mylog.log" afterPath="$PROJECT_DIR$/logs/mylog.log" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -59,6 +60,8 @@
     <ignored path="$PROJECT_DIR$/Chapter9/target/" />
     <ignored path="$PROJECT_DIR$/Chapter10/target/" />
     <ignored path="$PROJECT_DIR$/Chapter11/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter12/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter13/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,109 +71,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="64" column="27" lean-forward="false" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="13" column="99" lean-forward="false" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="338">
               <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml">
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/couser/controller/demo.java">
+      <file leaf-file-name="mysql.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
-                <element signature="e#1363#1364#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="-82">
+              <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/Application.java">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="188">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Applicaiton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/Applicaiton.java">
+      <file leaf-file-name="AddUserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="-378">
+              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter10/pom.xml">
+      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="-689">
+              <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="39" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-251">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,6 +184,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -201,38 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnMethod.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass1.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass3.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/groups/GroupsOnClass2.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/ExpectedException.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/DependTest.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/paramter/ParamterTest.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/paramter/DataProviderTest.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/multiThread/MultiThreadOnXml.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/TimeOutTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml.fxml" />
-        <option value="$PROJECT_DIR$/Chapter5/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
-        <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" />
-        <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListenerold.java" />
-        <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListener.java" />
-        <option value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/Chapter7/startup1.json" />
-        <option value="$PROJECT_DIR$/Chapter7/基本操作说明" />
-        <option value="$PROJECT_DIR$/Chapter7/startupGet.json" />
-        <option value="$PROJECT_DIR$/Chapter7/startupPost.json" />
-        <option value="$PROJECT_DIR$/Chapter7/startupWithHeader.json" />
-        <option value="$PROJECT_DIR$/Chapter7/startupWithRedirect.json" />
-        <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java" />
-        <option value="$PROJECT_DIR$/Chapter9/src/test/application.properties" />
-        <option value="$PROJECT_DIR$/Chapter7/startupWithCookies.json" />
-        <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForGet.java" />
-        <option value="$PROJECT_DIR$/Chapter9/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/Chapter9/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForPost.java" />
         <option value="$PROJECT_DIR$/Chapter10/src/main/java/hello/SampleController.java" />
@@ -252,6 +224,38 @@
         <option value="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" />
         <option value="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" />
         <option value="$PROJECT_DIR$/Chapter11/src/main/java/com/couser/controller/demo.java" />
+        <option value="$PROJECT_DIR$/Chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtendTestNGReporterListener.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/getUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java" />
+        <option value="$PROJECT_DIR$/Chapter13/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" />
       </list>
     </option>
   </component>
@@ -324,103 +328,130 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -428,18 +459,11 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -481,7 +505,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.Application (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -489,28 +513,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Applicaiton (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Applicaiton" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter11" />
-      <envs />
-    </configuration>
-    <configuration name="Applicaiton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hello.*" />
+          <option name="PATTERN" value="com.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hello.Applicaiton" />
+      <option name="MAIN_CLASS_NAME" value="com.course.Application" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -519,7 +529,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter10" />
+      <module name="Chapter13" />
       <envs />
     </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -539,25 +549,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Chapter11" />
-      <envs />
-    </configuration>
-    <configuration name="SampleController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hello.SampleController" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter10" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -601,6 +592,38 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="LoginTest.loginFalse" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Chapter12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <option name="METHOD_NAME" value="loginFalse" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="MyCookiesForPost.testPostMehtod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -617,6 +640,33 @@
       <option name="METHOD_NAME" value="testPostMehtod" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Chapter12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -667,19 +717,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMehtod" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SampleController" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Applicaiton" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Applicaiton (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMehtod" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalse" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Application (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Applicaiton (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Applicaiton" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SampleController" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMehtod" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Application (1)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalse" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMehtod" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -700,35 +750,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyCookiesForGet_testGetCookies - 2019.12.14 at 21h 15m 04s.xml">
-      <configuration name="MyCookiesForGet.testGetCookies" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginFalse - 2019.12.19 at 10h 34m 13s.xml">
+      <configuration name="LoginTest.loginFalse" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MyCookiesForGet_testGetCookies - 2019.12.14 at 21h 20m 00s.xml">
-      <configuration name="MyCookiesForGet.testGetCookies" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForGet_testGetCookies - 2019.12.14 at 21h 20m 35s.xml">
-      <configuration name="MyCookiesForGet.testGetCookies" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForGet_testGetCookies - 2019.12.14 at 21h 26m 47s.xml">
-      <configuration name="MyCookiesForGet.testGetCookies" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForGet_testGetCookies - 2019.12.14 at 21h 27m 42s.xml">
-      <configuration name="MyCookiesForGet.testGetCookies" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForGet_testGetWithCookies - 2019.12.14 at 22h 11m 45s.xml">
-      <configuration name="MyCookiesForGet.testGetWithCookies" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForPost - 2019.12.14 at 22h 45m 56s.xml">
-      <configuration name="MyCookiesForPost" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MyCookiesForPost_testPostMehtod - 2019.12.14 at 22h 47m 08s.xml">
+    <history-entry file="MyCookiesForPost_testPostMehtod - 2019.12.19 at 10h 30m 54s.xml">
       <configuration name="MyCookiesForPost.testPostMehtod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MyCookiesForPost_testPostMehtod - 2019.12.14 at 22h 47m 53s.xml">
-      <configuration name="MyCookiesForPost.testPostMehtod" configurationId="TestNG" />
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.18 at 22h 29m 14s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MyHttpClient - 2019.12.14 at 20h 40m 58s.xml">
-      <configuration name="MyHttpClient" configurationId="TestNG" />
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.18 at 22h 29m 29s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.18 at 22h 32m 19s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.19 at 10h 27m 00s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.19 at 10h 31m 09s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.19 at 10h 43m 57s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.19 at 10h 47m 55s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_wupan_liurong_muke_AutoTest_Chapter12_src_main_resources_testng_xml - 2019.12.19 at 11h 08m 34s.xml">
+      <configuration name="/Users/wupan/liurong/muke/AutoTest/Chapter12/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -754,6 +804,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4744318" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -828,450 +879,11 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/DependTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding>
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/paramter/ParamterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/paramter/DataProviderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/multiThread/MultiThreadOnXml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#144#145#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#263#264#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#465#466#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/TimeOutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="3" selection-start-column="108" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/Chapter6.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/couser/testng/BasicAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/test-output/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-888">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListenerold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5962#5975#0" expanded="false" />
-            <element signature="e#5976#6207#0" expanded="false" />
-            <element signature="e#6206#6207#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/test-output/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="91" lean-forward="false" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startup1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithHeader.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithRedirect.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.jar!/org/apache/http/impl/client/AbstractHttpClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="348" column="30" lean-forward="false" selection-start-line="348" selection-start-column="30" selection-end-line="348" selection-end-column="30" />
-          <folding>
-            <marker date="1555674604224" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1555674604224" expanded="false" signature="151:1842" ph="..." />
-            <marker date="1555674604224" expanded="true" signature="3206:3285" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="4555:4708" ph="{...}" />
-            <marker date="1555674604224" expanded="false" signature="4767:4778" ph=" { " />
-            <marker date="1555674604224" expanded="false" signature="4806:4812" ph=" }" />
-            <marker date="1555674604224" expanded="true" signature="4891:5051" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="5124:5276" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="5344:5526" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="5611:5674" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="5742:5924" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6009:6072" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6157:6323" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6410:6461" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6554:6736" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6835:6894" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="6979:7142" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="7238:7287" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="7356:7520" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="7603:7658" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="7745:7927" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="8030:8089" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="8175:8353" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="8454:8511" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="8572:8720" ph="{...}" />
-            <marker date="1555674604224" expanded="false" signature="8790:8801" ph=" { " />
-            <marker date="1555674604224" expanded="false" signature="8832:8838" ph=" }" />
-            <marker date="1555674604224" expanded="true" signature="8915:9077" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="9166:9217" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="9284:9440" ph="{...}" />
-            <marker date="1555674604224" expanded="false" signature="9517:9528" ph=" { " />
-            <marker date="1555674604224" expanded="false" signature="9561:9567" ph=" }" />
-            <marker date="1555674604224" expanded="true" signature="9638:9806" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="9892:9949" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="10022:10178" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="10262:10323" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="10418:10486" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="10570:10647" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="10707:10784" ph="{...}" />
-            <marker date="1555674604224" expanded="false" signature="10842:10853" ph=" { " />
-            <marker date="1555674604224" expanded="false" signature="10905:10911" ph=" }" />
-            <marker date="1555674604224" expanded="true" signature="11023:11103" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="11185:11246" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="11339:11407" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="11489:11565" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="11624:11700" ph="{...}" />
-            <marker date="1555674604224" expanded="false" signature="11757:11768" ph=" { " />
-            <marker date="1555674604224" expanded="false" signature="11819:11825" ph=" }" />
-            <marker date="1555674604224" expanded="true" signature="11935:12014" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="12122:12186" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="12315:12575" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="12638:12896" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="13018:13090" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="13233:14462" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="14915:15129" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="15189:15305" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="15446:15560" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="15722:15858" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="16013:16102" ph="{...}" />
-            <marker date="1555674604224" expanded="true" signature="16278:17617" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupGet.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupPost.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="63" column="54" lean-forward="false" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/com/couser/server/MyPostMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#445#446#0" expanded="false" />
-            <element signature="e#482#483#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/com/couser/server/MyGetMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="86" column="44" lean-forward="false" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="79" column="10" lean-forward="false" selection-start-line="79" selection-start-column="10" selection-end-line="80" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mapper">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/hello/Applicaiton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/Applicaiton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1288,37 +900,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="99" lean-forward="false" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#410#411#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1331,23 +919,402 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml">
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/couser/controller/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="477">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#1363#1364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/couser/controller/demo.java">
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGReporterListenerold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtendTestNGReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/conn/DefaultClientConnectionOperator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyCookiesForPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="94" column="12" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
-          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="40" />
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="81" column="59" lean-forward="false" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="60" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/com/course/controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,7 +1370,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Chapter10</last-edited>
+          <last-edited>Chapter12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
